@@ -9,7 +9,7 @@
 - Email: sunnydhoke22@gmail.com
 - GitHub: [sunn-e](https://github.com/sunn-e)
 - Project name: HER ( Hackintine Engine for Recommendation )
-
+- Project name inspiration : [HER](https://www.imdb.com/title/tt1798709/)
 ## Problem Statement
 
 ### Build a recommendation engine
