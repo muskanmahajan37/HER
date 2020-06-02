@@ -1,11 +1,14 @@
 # HER
  Hackintine Engine for Recommendation
+ 
+ ## Team Details
 
-Team Name: deadmau5
-Members: 1
-Member Name: [Sunny Dhoke](https://linkedin.com/in/sunn-e)
-Email: [Click here](sunnydhoke22@gmail.com)
-GitHub: [sunn-e](https://github.com/sunn-e)
+- Team Name: deadmau5
+- Members: 1
+- Member Name: [Sunny Dhoke](https://linkedin.com/in/sunn-e)
+- Email: sunnydhoke22@gmail.com
+- GitHub: [sunn-e](https://github.com/sunn-e)
+- Project name: HER ( Hackintine Engine for Recommendation )
 
 ## Problem Statement
 
