@@ -71,6 +71,8 @@ Solution to overcome that?
 Haha.. GO BRUTEFORCE. I tried for all values of K from 1 to 40. 
 Then plotted the graph and checked where the graph slope get's flat.
 
+![sse vs k value ](graph-for-k.png)
+
 Lucky for me, it got flat before it hit k =40. Otherwise I would have to increase k to 50 and keep hoping for slope to get parallel to x-axis.
 
 Neverthless, I chose k =38 as it was quite evident from my experiment for this value of k, I am getting pretty good indicators.
